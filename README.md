@@ -1,3 +1,4 @@
+![logo](https://github.com/Avinash-4805/Avinash-4805/blob/main/github-header-banner.png)
 <h1 align="center">Hi 👋, I'm Avinash Gharge</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
